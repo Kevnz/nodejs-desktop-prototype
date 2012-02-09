@@ -16,7 +16,7 @@ nodejs-desktop-prototype makes use of:
 * [node](http://nodejs.org/) and the [node-github module](https://github.com/ajaxorg/node-github)
 * [EJS](http://embeddedjs.com/)
 * [jQuery](http://jquery.com/) and [jQuery UI](http://jqueryui.com/)
-
+* [Titanium SDK 1.2 Release Candidate 2 required](http://developer.appcelerator.com/blog/2011/06/introducing-titanium-desktop-sdk-1-2-release-candidate-2.html)
 Special thanks to goes out to these great projects.
 
 ### Background
